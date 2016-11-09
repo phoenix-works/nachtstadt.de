@@ -1,0 +1,10 @@
+bin
+target
+target.cmp
+.settings
+.classpath
+.project
+*.iml
+/.idea
+atlassian-ide-plugin.xml
+dependency-reduced-pom.xml
